@@ -1,0 +1,13 @@
+#eheader{
+    color: #ECECEC;
+    background-color: #22458A;
+    text-align: center;
+}
+
+#pid{
+    font-style: italic;
+}
+
+#emptydiv{
+    height: 50px;
+}

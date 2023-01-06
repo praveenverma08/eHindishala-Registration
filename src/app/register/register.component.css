@@ -1,0 +1,14 @@
+input[type="text"] {
+    font-size: 15px;
+    color: grey;
+  }
+
+select{
+    font-size: 15px;
+    color: grey;
+}
+
+.fs{
+    font-size: 13px;
+    color: #FF8181;
+}
